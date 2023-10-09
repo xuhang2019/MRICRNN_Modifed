@@ -1,0 +1,16 @@
+acceleration_factor:
+- '4.0'
+batch_size:
+- '1'
+ckpt_str: ''
+dataset_index: 1
+debug: true
+lr:
+- '0.001'
+mode: train
+model_name: test_pl
+num_epoch:
+- '100'
+only_gt: true
+savefig: false
+use_dcl: true
